@@ -38,7 +38,7 @@ MIT © frigg.io
 .. |Coverage status| image:: http://ci.frigg.io/badges/coverage/frigg/frigg-runner/
         :target: https://ci.frigg.io/frigg/frigg-runner/
 
-.. |pypi version| image:: https://pypip.in/version/frigg-runner/badge.svg?style=flat
+.. |pypi version| image:: https://img.shields.io/pypi/v/frigg-runner.svg?style=flat
     :target: https://pypi.python.org/pypi/frigg-runner/
 
 .. |requires| image:: https://requires.io/github/frigg/frigg-runner/requirements.svg?branch=master
